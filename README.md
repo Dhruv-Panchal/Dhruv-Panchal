@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhruv-Panchal
+- 👋 Hi, I’m Dhruv
 - 👀 I’m interested in Cloud and distributing computing. Micorservices and serverless computing gets me excited. Working with kubernetes and docker really gets me going
 - 🌱 I’m currently learning Golang, some CICD, a little bit of Infrastructure building code and some more.
 - 💞️ I’m looking to collaborate on some mircoservices projects if you would like.
