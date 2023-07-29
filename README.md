@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Dhruv
-- 👀 I’m interested in Cloud and distributing computing. Micorservices and serverless computing gets me excited. Working with kubernetes and docker really gets me going
-- 🌱 I’m currently learning Golang, some CICD, a little bit of Infrastructure building code and some more.
-- 💞️ I’m looking to collaborate on some mircoservices projects if you would like.
-- 📫 How to reach me, drop me a dm @dhruvpanchal96
+### Hi there 👋, I'm Dhruv!
 
-<!---
-Dhruv-Panchal/Dhruv-Panchal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### I'm a DevOps Engineer and Software Developer.
+
+Passionate about automating processes and building scalable, reliable, and secure infrastructures. I enjoy working with cloud technologies and open-source tools to optimize development workflows and enhance software delivery.
+
+🔭 **Currently working on**: Implementing Kubernetes cluster architecture and CI/CD pipelines for seamless application deployments.
+
+🌱 **Currently learning**: Advanced Kubernetes concepts, machine learning, and cloud security best practices.
+
+💬 **Ask me about**: Kubernetes, Docker, Terraform, Jenkins, AWS, GCP, CI/CD, Python, and DevOps best practices.
+
+📫 **Reach me**: [Email](dhruvpanchal96@gmail.com) | [LinkedIn](https://www.linkedin.com/in/panchaldhruv) 
+
+
+⚡ **Fun fact**: I love hiking and exploring new places.
+
+---
+### GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs,issues&count_private=true)
+
