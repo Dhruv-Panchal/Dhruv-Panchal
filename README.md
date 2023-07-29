@@ -18,5 +18,5 @@ Passionate about automating processes and building scalable, reliable, and secur
 ---
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=prs,issues&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv-panchal&show_icons=true&hide_title=true&hide=prs,issues&count_private=true)
 
